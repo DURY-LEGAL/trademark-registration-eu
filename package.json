@@ -1,0 +1,25 @@
+{
+  "name": "trademark-registration-eu",
+  "version": "0.1.0",
+  "description": "EU trademark registration toolkit - EUIPO filing automation. Powered by DURY LEGAL.",
+  "keywords": [
+    "euipo",
+    "trademark",
+    "registration",
+    "eu",
+    "european",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/trademark-registration-eu.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
